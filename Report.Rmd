@@ -1,0 +1,9 @@
+---
+title: "Report"
+author: "Team"
+date: "4/18/2021"
+output: pdf_document
+---
+
+
+![](plots/plot8.png)
